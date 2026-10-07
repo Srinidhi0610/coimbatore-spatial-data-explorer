@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "name": "roads",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avinashi Road",
+        "category": "road",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.96,
+            11.015
+          ],
+          [
+            76.975,
+            11.018
+          ],
+          [
+            77.0,
+            11.023
+          ],
+          [
+            77.03,
+            11.029
+          ],
+          [
+            77.045,
+            11.032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sathy Road",
+        "category": "road",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.968,
+            11.045
+          ],
+          [
+            76.97,
+            11.03
+          ],
+          [
+            76.973,
+            11.019
+          ],
+          [
+            76.976,
+            11.01
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mettupalayam Road",
+        "category": "road",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.95,
+            11.042
+          ],
+          [
+            76.96,
+            11.036
+          ],
+          [
+            76.97,
+            11.03
+          ],
+          [
+            76.98,
+            11.024
+          ],
+          [
+            76.99,
+            11.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trichy Road",
+        "category": "road",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.966,
+            10.999
+          ],
+          [
+            76.99,
+            10.999
+          ],
+          [
+            77.01,
+            10.9985
+          ],
+          [
+            77.035,
+            10.998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sample Link Road (Educational)",
+        "category": "road",
+        "note": "Fictional road added to demonstrate intersection and adjacency.",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.006,
+            11.0
+          ],
+          [
+            77.004,
+            11.02
+          ],
+          [
+            77.0035,
+            11.026
+          ],
+          [
+            77.003,
+            11.035
+          ]
+        ]
+      }
+    }
+  ]
+}

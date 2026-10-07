@@ -1,0 +1,296 @@
+{
+  "type": "FeatureCollection",
+  "name": "places",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PSG Hospitals",
+        "category": "hospital",
+        "area": "Peelamedu",
+        "beds_approx": 1000,
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.004,
+          11.0215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sri Ramakrishna Hospital",
+        "category": "hospital",
+        "area": "Sidhapudur",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.978,
+          11.017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G. Kuppuswamy Naidu Memorial Hospital",
+        "category": "hospital",
+        "area": "Pappanaickenpalayam",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.983,
+          11.0225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kovai Medical Center and Hospital",
+        "category": "hospital",
+        "area": "Avinashi Road",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0385,
+          11.027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coimbatore Medical College Hospital",
+        "category": "hospital",
+        "area": "Town Hall side",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.964,
+          10.999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganga Hospital",
+        "category": "hospital",
+        "area": "Mettupalayam Road",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.956,
+          11.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KG Hospital",
+        "category": "hospital",
+        "area": "Arts College Road",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.961,
+          11.007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Care Hospital",
+        "category": "hospital",
+        "area": "Neelambur side",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.065,
+          11.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PSG College of Technology",
+        "category": "college",
+        "area": "Peelamedu",
+        "is_reference": true,
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0028,
+          11.0247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PSG College of Arts and Science",
+        "category": "college",
+        "area": "Civil Aerodrome Post",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.006,
+          11.027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coimbatore Institute of Technology",
+        "category": "college",
+        "area": "Civil Aerodrome Post",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0275,
+          11.0285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government College of Technology",
+        "category": "college",
+        "area": "Thadagam Road",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.938,
+          11.018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamil Nadu Agricultural University",
+        "category": "college",
+        "area": "Marudhamalai Road",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.933,
+          11.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumaraguru College of Technology",
+        "category": "college",
+        "area": "Saravanampatti",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.993,
+          11.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amrita Vishwa Vidyapeetham (Ettimadai)",
+        "category": "college",
+        "area": "Ettimadai (outside city)",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.902,
+          10.902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PSG Public Schools",
+        "category": "school",
+        "area": "Peelamedu",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0035,
+          11.0262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanes Anglo Indian Higher Secondary School",
+        "category": "school",
+        "area": "Race Course side",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.964,
+          11.011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinmaya Vidyalaya",
+        "category": "school",
+        "area": "North Coimbatore",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.988,
+          11.043
+        ]
+      }
+    }
+  ]
+}

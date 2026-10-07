@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "name": "boundaries",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coimbatore (simplified educational boundary)",
+        "category": "boundary",
+        "note": "Rough hand-drawn outline. NOT the official city limit.",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.925,
+              10.955
+            ],
+            [
+              76.99,
+              10.945
+            ],
+            [
+              77.06,
+              10.96
+            ],
+            [
+              77.1,
+              11.0
+            ],
+            [
+              77.105,
+              11.06
+            ],
+            [
+              77.06,
+              11.1
+            ],
+            [
+              76.99,
+              11.095
+            ],
+            [
+              76.93,
+              11.07
+            ],
+            [
+              76.92,
+              11.01
+            ],
+            [
+              76.925,
+              10.955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peelamedu Zone (educational)",
+        "category": "boundary",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.985,
+              11.0
+            ],
+            [
+              77.045,
+              11.0
+            ],
+            [
+              77.045,
+              11.045
+            ],
+            [
+              76.985,
+              11.045
+            ],
+            [
+              76.985,
+              11.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Race Course Zone (educational)",
+        "category": "boundary",
+        "source": "Educational sample: hand-placed approximate coordinates, not official survey data."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.94,
+              10.995
+            ],
+            [
+              77.0,
+              10.995
+            ],
+            [
+              77.0,
+              11.035
+            ],
+            [
+              76.94,
+              11.035
+            ],
+            [
+              76.94,
+              10.995
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
